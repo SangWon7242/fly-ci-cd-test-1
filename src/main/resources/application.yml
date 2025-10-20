@@ -1,0 +1,4 @@
+spring:
+    application:
+        name: fly-ci-cd-test-1
+
